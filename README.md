@@ -1,5 +1,5 @@
 # Datumless Topography: A Universally Consistent Way to Quantify Relief
-## _Kai Xu, Yale University_
+## Kai Xu, Yale University
 
 Google Earth Engine script (JavaScript) for computing four datumless measures: dominance, jut, submission, and rut.
 
