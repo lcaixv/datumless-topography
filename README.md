@@ -1,5 +1,5 @@
 
-# [Code for Datumless Topography: Dominance, Jut, Submission, and Rut]((https://code.earthengine.google.com/e2c0e4d0f21bdec0bd80ec9e392cd958))
+# [Code for Datumless Topography: Dominance, Jut, Submission, and Rut](https://code.earthengine.google.com/e2c0e4d0f21bdec0bd80ec9e392cd958)
 **Kai Xu, Yale University**
 
 This repo provides the Google Earth Engine scripts (in JavaScript) for computing the datumless measures of topographic relief: *dominance*, *jut*, *submission*, and *rut*. These concepts are explained in my research paper [here](https://arxiv.org/abs/2208.01600). For much friendlier explanations, check out these five-minute explanations of [dominance](https://www.reddit.com/r/Mountaineering/comments/wfmrxw/a_new_way_to_measure_the_height_of_a_mountain/), [jut](https://www.reddit.com/r/Mountaineering/comments/wup76h/a_new_way_to_quantify_the_impressiveness_of_a/), and [dominant points](https://www.reddit.com/r/Mountaineering/comments/ww1wtw/on_top_of_the_world_a_new_mountain_metric/) (related to submission).
