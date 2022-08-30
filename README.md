@@ -6,7 +6,7 @@ This repo provides the Google Earth Engine scripts (in JavaScript) for computing
 
 To compute the datumless measures, the first step is to create a Google Earth Engine account [here](https://earthengine.google.com/new_signup/). For the question "What would you like to accomplish with Earth Engine?", say that you are interested in computing the datumless measures of topographic relief, and include the link of the research paper (https://arxiv.org/abs/2208.01600) to increase your chances of approval. Your account should be approved within a few hours to a few days.
 
-After your account is approved, you can access and run the code [here](https://code.earthengine.google.com/e2c0e4d0f21bdec0bd80ec9e392cd958). Instructions are provided in the code as comments.
+Once your account is approved, you can access and run the code [here](https://code.earthengine.google.com/e2c0e4d0f21bdec0bd80ec9e392cd958). Instructions are provided in the code as comments.
 
 # What Are the Datumless Measures?
 
