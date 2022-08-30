@@ -1,12 +1,12 @@
 
-# [Code for Datumless Topography: Dominance, Jut, Submission, and Rut](https://code.earthengine.google.com/e2c0e4d0f21bdec0bd80ec9e392cd958)
+# Code for Datumless Measures: Dominance, Jut, Submission, and Rut
 **Kai Xu, Yale University**
 
 This repo provides the Google Earth Engine scripts (in JavaScript) for computing the datumless measures of topographic relief: *dominance*, *jut*, *submission*, and *rut*. These concepts are explained in my research paper [here](https://arxiv.org/abs/2208.01600). For much friendlier explanations, check out these five-minute explanations of [dominance](https://www.reddit.com/r/Mountaineering/comments/wfmrxw/a_new_way_to_measure_the_height_of_a_mountain/), [jut](https://www.reddit.com/r/Mountaineering/comments/wup76h/a_new_way_to_quantify_the_impressiveness_of_a/), and [dominant points](https://www.reddit.com/r/Mountaineering/comments/ww1wtw/on_top_of_the_world_a_new_mountain_metric/) (related to submission).
 
 To compute the datumless measures, the first step is to create a Google Earth Engine account [here](https://earthengine.google.com/new_signup/). For the question "What would you like to accomplish with Earth Engine?", say that you are interested in computing the datumless measures of topographic relief, and include the link of the research paper (https://arxiv.org/abs/2208.01600) to increase your chances of approval. Your account should be approved within a few hours to a few days.
 
-Once your account is approved, you can access and run the code [here](https://code.earthengine.google.com/e2c0e4d0f21bdec0bd80ec9e392cd958). Instructions are provided in the code as comments.
+Once your account is approved, you can [access and run the code here](https://code.earthengine.google.com/e2c0e4d0f21bdec0bd80ec9e392cd958). Instructions are provided in the code as comments.
 
 # What Are the Datumless Measures?
 
