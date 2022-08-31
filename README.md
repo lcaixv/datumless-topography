@@ -8,7 +8,7 @@ To compute the datumless measures, the first step is to create a Google Earth En
 
 Once your account is approved, you can [access and run the code here](https://code.earthengine.google.com/e2c0e4d0f21bdec0bd80ec9e392cd958). Instructions are provided in the code as comments.
 
-If you measured a mountain, it would be great to add it to the [database of datumless measures for mountains](https://www.peakbagger.com/peak.aspx?pid=2829). Mountains are identified by their Peakbagger.com PID, which is found in the URL of a mountain on the website. For instance, the Peakbagger.com URL for Mt. Whitney is [https://www.peakbagger.com/peak.aspx?pid=2829] and its PID is 2829.
+If you measured a mountain, it would be great to add it to the [database of datumless measures for mountains](https://www.peakbagger.com/peak.aspx?pid=2829). Mountains are identified by their Peakbagger.com PID, which is found in the URL of a mountain on the website. For instance, the Peakbagger.com URL for Mt. Whitney is https://www.peakbagger.com/peak.aspx?pid=2829 and its PID is 2829.
 
 # What Are the Datumless Measures?
 
