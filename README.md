@@ -8,6 +8,8 @@ To compute the datumless measures, the first step is to create a Google Earth En
 
 Once your account is approved, you can [access and run the code here](https://code.earthengine.google.com/e2c0e4d0f21bdec0bd80ec9e392cd958). Instructions are provided in the code as comments.
 
+If you measured a mountain, it would be great to add it to the [database of datumless measures for mountains](https://www.peakbagger.com/peak.aspx?pid=2829). Mountains are identified by their Peakbagger.com PID, which is found in the URL of a mountain on the website. For instance, the Peakbagger.com URL for Mt. Whitney is [https://www.peakbagger.com/peak.aspx?pid=2829] and its PID is 2829.
+
 # What Are the Datumless Measures?
 
 On Earth, the relief of a mountain or other surface feature is measured with elevation, or height above sea level. However, for elevation to work on planets without a sea level, scientists have to define a "fake sea level" corresponding to zero elevation, also known as a *datum*. On such planets, the datum doesn't correspond to real surface features, hence the elevation of a point doesn't describe much by itself. Take Mt. Sharp on Mars, whose summit elevation of 728 meters reveals nothing by itself about the approximately 5 kilometer rise of the mountain above the floor of the Gale Crater that it rests within.
